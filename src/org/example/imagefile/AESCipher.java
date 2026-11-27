@@ -1,4 +1,4 @@
-package org.example; // 패키지 이름을 org.example로 통일하여 사용합니다.
+package org.example.imagefile; // 패키지 이름을 org.example로 통일하여 사용합니다.
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
