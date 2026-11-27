@@ -1,4 +1,4 @@
-# DatabaseSecurity_RE
+# DatabaseSecurity_Renewal
 
 데이터 유형(텍스트 / 이미지)과 데이터베이스 시스템(MySQL / SQLite)에 따라
 암호 시스템(AES / RSA / 하이브리드)의 **암호화·복호화 시간**과 **메모리 사용량**을 비교하는 Java 벤치마크 프로젝트입니다.
@@ -30,7 +30,7 @@
 ## 프로젝트 구조
 
 ```
-DatabaseSecurity_RE/
+DatabaseSecurity_Renewal/
 ├─ src/
 │  └─ org/example/
 │     ├─ textfile/                 # 텍스트 데이터 벤치마크
@@ -68,7 +68,7 @@ DatabaseSecurity_RE/
 ### 1. 프로젝트 가져오기
 
 ```bash
-git clone https://github.com/Eojinn/DatabaseSecurity_RE.git
+git clone https://github.com/Eojinn/DatabaseSecurity_Renewal.git
 ```
 
 IntelliJ에서 폴더를 연 뒤 다음을 설정합니다.
